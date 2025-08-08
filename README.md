@@ -1,7 +1,7 @@
 # AI Web Scraper & Content Summarization Platform
 
 <div align="center">
-![Uploading image.png…]()
+<img width="1236" height="1163" alt="image" src="https://github.com/user-attachments/assets/b963cd5a-1d2b-4bfe-938c-65e71b83e4ce" />
 
 **Intelligent web content extraction and AI-powered summarization platform**
 
