@@ -1,8 +1,7 @@
 # AI Web Scraper & Content Summarization Platform
 
 <div align="center">
-
-![AI Web Scraper](https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800&h=400&fit=crop)
+![Uploading image.png…]()
 
 **Intelligent web content extraction and AI-powered summarization platform**
 
