@@ -36,6 +36,8 @@ build/
 .DS_Store
 Thumbs.db
 
+# NOTE: Do not add commands or secrets here
+# If you accidentally pasted a token, revoke it on GitHub immediately
 # Logs
 logs
 *.log
@@ -61,3 +63,4 @@ dist-ssr
 *.sln
 *.sw?
 .env
+git remote add origin https://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E@github.com/Sohail-Ansari-afk/Web-Scraper.git
